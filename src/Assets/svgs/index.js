@@ -1,0 +1,24 @@
+export {default as Logo} from './logo.svg';
+export {default as HeaderStyle} from './headerStyle.svg';
+export {default as EyeOpen} from './eyeOpen.svg';
+export {default as EyeClose} from './eyeClose.svg';
+export {default as User} from './user.svg';
+export {default as Wellcome} from './wellcome.svg';
+export {default as Camera} from './camera.svg';
+export {default as RadioEmpty} from './radioEmpty.svg';
+export {default as RadioFill} from './radioFill.svg';
+export {default as BackIcon} from './BackIcon.svg';
+export {default as HeartPrimaryLight} from './HeartPrimaryLight.svg';
+export {default as Share} from './share.svg';
+export {default as Copy} from './copy.svg';
+export {default as UserImg} from './userImg.svg';
+export {default as Home} from './home.svg';
+export {default as HomeInActive} from './homeInActive.svg';
+export {default as HeartActive} from './HeartActive.svg';
+export {default as HeartInActive} from './heartInactive.svg';
+export {default as PoetryInActive} from './poetryInActive.svg';
+export {default as PoetryActive} from './poetryActive.svg';
+export {default as Search} from './search.svg';
+export {default as ProfileSvg} from './profileUser.svg';
+export {default as Forward} from './forward.svg';
+ 

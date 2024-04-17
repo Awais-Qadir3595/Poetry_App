@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/fonts/AA Sameer Khashab-Bold Bold.ttf",
+      "sha1": "5d61347c1bfed3b65b379423f0947322429de7b2"
+    },
+    {
+      "path": "src/Assets/fonts/AA Sameer mosan Regular.ttf",
+      "sha1": "17d13e3c6262a7b9ca1210c40519f3e1266226c4"
+    },
+    {
+      "path": "src/Assets/fonts/Jameel Noori Nastaleeq Kasheeda.ttf",
+      "sha1": "d65900524be6524ed17f232c3d5bbc88095a3bdf"
+    },
+    {
+      "path": "src/Assets/fonts/Jameel Noori Nastaleeq Regular.ttf",
+      "sha1": "fe328332fcbfca1084de9c60169e41395a8044db"
+    }
+  ]
+}

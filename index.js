@@ -3,7 +3,7 @@
  */
 
 import {AppRegistry} from 'react-native';
-import App from './App';
+import StackFlow from './src/Navigations/StackNavigation';
 import {name as appName} from './app.json';
-
-AppRegistry.registerComponent(appName, () => App);
+import Index from './testRedux';
+AppRegistry.registerComponent(appName, () => StackFlow);
